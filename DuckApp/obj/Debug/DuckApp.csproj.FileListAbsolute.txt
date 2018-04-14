@@ -1,0 +1,6 @@
+c:\users\berkay\documents\visual studio 2013\Projects\DuckApp\DuckApp\bin\Debug\DuckApp.exe.config
+c:\users\berkay\documents\visual studio 2013\Projects\DuckApp\DuckApp\obj\Debug\DuckApp.csprojResolveAssemblyReference.cache
+c:\users\berkay\documents\visual studio 2013\Projects\DuckApp\DuckApp\bin\Debug\DuckApp.exe
+c:\users\berkay\documents\visual studio 2013\Projects\DuckApp\DuckApp\bin\Debug\DuckApp.pdb
+c:\users\berkay\documents\visual studio 2013\Projects\DuckApp\DuckApp\obj\Debug\DuckApp.exe
+c:\users\berkay\documents\visual studio 2013\Projects\DuckApp\DuckApp\obj\Debug\DuckApp.pdb
